@@ -1,0 +1,14 @@
+[33m3a45ccb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mjarvis-ai[m[33m)[m Update Jarvis AI project
+ __init__.py           |    0
+ src/check_voice.py    |   13 [32m+[m
+ src/gemini_ai.py      |   32 [32m+[m
+ src/gemini_test.py    |   16 [32m+[m
+ src/jarvis.py         |   87 [32m++[m
+ src/main.py           |  105 [32m++[m
+ src/speech_to_text.py |   21 [32m+[m
+ src/test_mic.py       |   23 [32m+[m
+ src/text_to_speech.py |   29 [32m+[m
+ src/voice_test.py     |   15 [32m+[m
+ src/wake_word.py      |    0
+ uv.lock               | 2561 [32m+++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 12 files changed, 2902 insertions(+)
